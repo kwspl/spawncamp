@@ -5,5 +5,9 @@
 function display() {
    phpinfo();
 }
-display();
 ?>
+<html>
+   <body>
+      <?php display();?>
+   </body>
+</html>
