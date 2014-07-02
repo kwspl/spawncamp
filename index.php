@@ -1,5 +1,3 @@
-<html>
-   <body>
 <?php
 /*
  * Display stuff on this page.
@@ -7,7 +5,9 @@
 function display() {
    phpinfo();
 }
-display();
 ?>
+<html>
+   <body>
+      <?php display();?>
    </body>
 </html>
