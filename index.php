@@ -1,3 +1,5 @@
+<html>
+   <body>
 <?php
 /*
  * Display stuff on this page.
@@ -7,3 +9,5 @@ function display() {
 }
 display();
 ?>
+   </body>
+</html>
